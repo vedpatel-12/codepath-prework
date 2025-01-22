@@ -1,6 +1,15 @@
 # codepath-prework
 CodePath IOS Development Project
 
+<div>
+    <a href="https://www.loom.com/share/029ce223963a45b58d5d1417433a83ad">
+      <p>Library | Loom - 22 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/029ce223963a45b58d5d1417433a83ad">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/029ce223963a45b58d5d1417433a83ad-fae75c01ab5695e0-full-play.gif">
+    </a>
+  </div>
+
 # Prework - *Ved Patel Color Changer*
 
 Submitted by: **Ved Patel**
